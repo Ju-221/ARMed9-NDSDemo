@@ -32,8 +32,8 @@ dsHomebrew/
 
 ## Notes
 
-This repository is intended as a demo for a resume/CV and is focused on source-level NDS assembly work.
-Local assembler binaries, build outputs, and emulator files are intentionally ignored so the repo stays clean and portable.
+This repository is intended as a demo for source-level NDS assembly work within ARM9 CPUs (the nintendo DS' cpu).
+Local assembler binaries, build outputs, and emulator files are intentionally ignored so the repo stays clean and portable. 
 
 If you want to build the project locally, use your own VASM assembler or adjust the scripts to point to a locally installed assembler.
 
