@@ -4,6 +4,7 @@ A compact Nintendo DS demo project created as a demoscene demo of ARM9 assambly.
 
 ---
 
+<img width="448" height="745" alt="Screenshot 2026-06-03 at 4 12 05 PM" src="https://github.com/user-attachments/assets/e958f901-4e1d-4b12-a0bf-8ae4b3fbdf27" />
 
 
 ## Project structure
