@@ -4,6 +4,8 @@ A compact Nintendo DS demo project created as a demoscene demo of ARM9 assambly.
 
 ---
 
+
+
 ## Project structure
 
 ```
@@ -25,6 +27,10 @@ dsHomebrew/
 ├── README.md
 └── .gitignore
 ```
+
+- `Sandbox.s` is the original demo assembly source.
+- `SandboxGUI.s` is the latest version and should be used for current builds.
+- `SandboxWithHeaders.s` is an alternate variant that includes the same demo with explicit header organization.
 
 > `Utils/`, `buildNDS/`, and `Emulator/` are excluded from the public repository and are not part of this demo upload.
 
