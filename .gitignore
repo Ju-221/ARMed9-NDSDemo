@@ -1,0 +1,17 @@
+# Ignore build artifacts and local tools
+Utils/
+buildNDS/
+Emulator/
+*.nds
+*.dsv
+*.ini
+*.exe
+*.DS_Store
+*.log
+
+# macOS metadata
+.DS_Store
+
+# Optional editor files
+*.swp
+*~
